@@ -1,5 +1,5 @@
 ---
 title: "Primer blog"
-date: 13/04/2022
+date: 2022-04-13
 description: 'Este es mi primer blog y el de prueba'
 ---
